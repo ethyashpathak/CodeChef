@@ -4,5 +4,5 @@ Welcome to my personal collection of coding solutions! This repository contains 
 
 ## About
 - This repo is a personal playground for exploring algorithms and problem-solving techniques.
-- The problems are chosen based on my curiosity and learning journey.
-- Solutions are primarily in C++ (or you can mention other languages you use).
+- The problems are chosen based on my learning journey,so if you find them extremely simple or tough(not usual),then i am sorry!!!...
+- Solutions are primarily in C++
